@@ -31,3 +31,6 @@
 
 # Phone Numbers
 - [PhoneInfoga](https://github.com/sundowndev/phoneinfoga)
+
+# Misc
+- [CarNET.ai](https://carnet.ai/) - identify car make/model
