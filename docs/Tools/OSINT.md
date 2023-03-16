@@ -1,4 +1,6 @@
 -   [IntelTechniques](https://inteltechniques.com/tools/)
+-   [OH SHINT!](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
+-   [OSINT4ALL](https://start.me/p/L1rEYQ/osint4all)
 -   [OSINT Framework](https://osintframework.com/)
 -   [https://www.youtube.com/watch?v=-IoYSMtrBSI](https://www.youtube.com/watch?v=-IoYSMtrBSI)
 -   [https://www.youtube.com/watch?v=SMxya-M6KhU](https://www.youtube.com/watch?v=SMxya-M6KhU)
@@ -31,6 +33,7 @@
 
 # Phone Numbers
 - [PhoneInfoga](https://github.com/sundowndev/phoneinfoga)
+<<<<<<< HEAD
 
 # Misc
 - [CarNET.ai](https://carnet.ai/) - identify car make/model
