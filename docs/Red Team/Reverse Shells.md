@@ -3,7 +3,7 @@ category:
   - redteam
 ---
 
-# Stabilization
+# Reverse Shell Stabilization
 ## TTY Size
 In second terminal window, get rows & columns with `stty -a`, then set them in the remote shell with `stty {rows|cols} <number>`
 
