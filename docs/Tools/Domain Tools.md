@@ -5,12 +5,12 @@ category:
 !!! note "Info"
 	Tools related to domains and/or IP addresses, ASNs, certificates, etc.
 
-# Domains
-## Web Tools
+## Domains
+### Web Tools
 - [URLVoid](https://urlvoid.com) - check domain reputation
 - [DNSDumpster](https://dnsdumpster.com/) - query DNS records, geoIP, subdomains, domain map
 - [crt.sh](https://crt.sh) - query TLS certificates for a domain
-## CLI
+### CLI
 - [Amass](https://github.com/owasp-amass/amass)
 	- `amass enum -src -ip -brute -d [url]`
 	- Slowest, but most thorough
@@ -19,6 +19,6 @@ category:
 	- Fast, but only finds common subdomains
 - [Photon](https://github.com/s0md3v/Photon)
 
-# IP Addresses
+## IP Addresses
 - [IPVoid](https://ipvoid.com)
 - [AbuseIPDB](https://abuseipdb.com)

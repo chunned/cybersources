@@ -3,7 +3,7 @@ category:
   - misc
 ---
 
-# Resource Lists
+## Resource Lists
 - [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [Awesome Security](https://github.com/sbilly/awesome-security)
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
@@ -19,21 +19,21 @@ category:
 - [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
 - [Awesome Pentest](https://github.com/Muhammd/Awesome-Pentest) (different from above)
 
-# Blogs
+## Blogs
 - [PenTestMonkey](https://web.archive.org/web/20200831150802/http://pentestmonkey.net/)
 - [SkullSecurity](https://blog.skullsecurity.org/)
 - [Null Byte](https://null-byte.wonderhowto.com/)
 - [FuzzySecurity](http://www.fuzzysecurity.com/) - tutorials, scripts, exploits, and a list of resources
 
-# Courses
+## Courses
 - [freeCodeCamp - Python for PenTesting](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/)
 - [Collection of university courses](https://github.com/prakhar1989/awesome-courses#security)
 - [Pentester Academy](https://www.pentesteracademy.com/topics)
  
-# Projects
+## Projects
 - [Build your own network stack](https://github.com/danistefanovic/build-your-own-x#build-your-own-network-stack)
 
-# Books
+## Books
 - [Reverse Engineering for Beginners](https://beginners.re/) \[PDF]
 - [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
 - [Cryptoparty Handbook](https://cryptoparty.is/handbook//) \[HTML]

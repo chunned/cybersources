@@ -1,6 +1,7 @@
 ---
 category:
   - tools
+  - steganography
 ---
 - [AperiSolve](https://github.com/Zeecka/AperiSolve)
 	- Runs all of the following on an image: `zsteg, steghide, outguess, exiftool, binwalk, foremost, strings`

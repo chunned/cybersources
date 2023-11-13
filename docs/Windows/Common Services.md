@@ -3,7 +3,7 @@ category: windows
 ---
 !!! info "Info"
 	Basic information about various Windows services.
-# NetBIOS
+## NetBIOS
 - Network Basic Input/Output System
 	- Port 139
 - Provides services related to session layer of OSI model
@@ -11,7 +11,7 @@ category: windows
 	- Strictly an API, not a network protocol
 - Often used for communication of data for files and printers through the session layer
 
-# SMB
+## SMB
 - Server Message Block
 	- [Port 139](NetBIOS) and 445
 - Network file sharing protocol
@@ -23,7 +23,7 @@ category: windows
 Remote shell with [[Impacket]]:
 `psexec.py Administrator@{target IP}`
 
-# RPC 
+## RPC 
 - Remote Procedure Call
 	- port 135
 - Supports communications between Windows applications using RPC protocol

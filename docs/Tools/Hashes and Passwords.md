@@ -1,6 +1,6 @@
 - [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/tools.html#title-tools-cracking)
 	- Large list of tools/wordlists
-# Cracking
+## Cracking
 - [Haiti](https://noraj.github.io/haiti/#/) - identify hashes, tell you the hashcat/john mode to use
 	- Install with `gem install haiti-hash`
 - [Search That Hash](https://github.com/HashPals/Search-That-Hash) - identify hashes and attempt to crack them
@@ -9,14 +9,13 @@
 - John the Ripper
 	- `john {hashfile} --format={format} --wordlist={/path/to/wordlist}`
 	- [Formats](https://pentestmonkey.net/cheat-sheet/john-the-ripper-hash-formats)
-## Online Tools
+### Online Tools
 - [Hashes.com](https://hashes.com/en/decrypt/hash)
 - [CrackStation](https://crackstation.net/)
-# Wordlists
+## Wordlists
 - [SecLists](https://github.com/danielmiessler/SecLists)  
 - [wordlistctl](https://github.com/BlackArch/wordlistctl)   
-
-## Generating Wordlists  
+### Generating Wordlists  
 - [Mentalist](https://github.com/sc0tfree/mentalist) - given a list, creates variations of it (i.e. hello -> h3ll0)  
 - [CeWL](https://github.com/digininja/CeWL) - grab words from a URL  
     - e.g. download all words from example.org with a depth of 2: `cewl -d 2 -w $(pwd)/example.txt https://example.org`  
