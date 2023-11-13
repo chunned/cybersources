@@ -2,7 +2,7 @@
 category:
   - osint
 ---
-!!! note "Note"
+!!! note "Info"
 	Tools related to domains and/or IP addresses, ASNs, certificates, etc.
 
 # Domains

@@ -3,6 +3,8 @@ category:
   - tools
   - learning
 ---
+!!! note "Info"
+	Hands-on security education platforms.
 # General
 - [TryHackMe](https://cryptohack.org/) - CTFs and educational rooms with machines to hack into.
 - [HackTheBox](https://www.hackthebox.com/) - Similar to TryHackMe but more advanced.
