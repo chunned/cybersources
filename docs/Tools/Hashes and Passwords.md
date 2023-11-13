@@ -7,7 +7,7 @@
 - Hashcat
 	- [Hash mode examples](https://hashcat.net/wiki/doku.php?id=example_hashes)
 - John the Ripper
-	- `john {hashfile} --format={format} --wordlist={/path/to/wordlist}`
+	- `john <hashfile> --format=<format> --wordlist=</path/to/wordlist>`
 	- [Formats](https://pentestmonkey.net/cheat-sheet/john-the-ripper-hash-formats)
 ### Online Tools
 - [Hashes.com](https://hashes.com/en/decrypt/hash)

