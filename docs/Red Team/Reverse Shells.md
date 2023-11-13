@@ -2,8 +2,9 @@
 category:
   - redteam
 ---
-
-# Reverse Shell Stabilization
+!!! info "Info"
+	"Reverse shells _allow attackers to open ports to the target machines, forcing communication and_ enabling a complete takeover of the target machine." -[Imperva](https://www.imperva.com/learn/application-security/reverse-shell/)
+# Stabilization
 ## TTY Size
 In second terminal window, get rows & columns with `stty -a`, then set them in the remote shell with `stty {rows|cols} <number>`
 
