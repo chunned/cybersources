@@ -8,6 +8,8 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.path
+    - toc.integrate
+    - navigation.indexes
     palette:
 
     # Light mode
@@ -67,3 +69,22 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js 
+
+nav:
+  - Home: 
+    - index.md 
+  
+  - Tools:
+    - Tools/Education Platforms.md
+    - Tools/OSINT.md 
+    - Tools/Hashes and Passwords.md 
+    - Tools/Domain Tools.md 
+    - Tools/Misc.md 
+    - Tools/Resources.md 
+
+  - Red Team:
+    - Redteam/Reverse Shells.md 
+    - Redteam/CI-CD.md 
+
+  - Windows:
+    - Windows/Common Services.md 
