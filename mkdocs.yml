@@ -87,8 +87,12 @@ nav:
     - Tools/Resources.md 
 
   - Red Team:
+    - Redteam/Resources.md
     - Redteam/Reverse Shells.md 
     - Redteam/CI-CD.md 
+
+  - Blue Team:
+    - Blueteam/Crowdstrike Falcon.md
 
   - Windows:
     - Windows/Common Services.md 
