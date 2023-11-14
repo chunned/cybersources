@@ -1,7 +1,13 @@
-site_name: obsidian-mkdocs template
+site_name: Cybersources
 
 theme:
     name: 'material'
+    features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
     palette:
 
     # Light mode
