@@ -89,7 +89,8 @@ nav:
   - Red Team:
     - Redteam/Resources.md
     - Redteam/Reverse Shells.md 
-    - Redteam/CI-CD.md 
+    - Redteam/CI-CD.md
+    - Redteam/SQL.md
 
   - Blue Team:
     - Blueteam/Crowdstrike Falcon.md
