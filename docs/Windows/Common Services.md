@@ -18,7 +18,7 @@ category: windows
 - Requires open port on the server
 ### Common Vulnerabilities
 - Unprotected admin shares
-`smbclient \\\\<target IP>\\C$ -U Administrator`
+`smbclient -N \\\\<target IP>\\C$ -U {Guest|Administrator}`
 - Unprotected users
 Remote shell with [[Impacket]]:
 `psexec.py Administrator@<target IP>`

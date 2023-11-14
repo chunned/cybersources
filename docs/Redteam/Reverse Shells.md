@@ -18,6 +18,7 @@ export TERM=xterm
 [Ctrl+Z]    # background the session
 stty raw -echo; fg     # Stabilze and foreground the shell
 ```
+[Netcat for Windows](https://github.com/int0x33/nc.exe)
 ### Socat
 If Python is available:
 ```

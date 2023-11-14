@@ -19,6 +19,12 @@ category:
 	- Very fast
 # Networking
 - [Impacket](https://github.com/fortra/impacket)
+```bash
+git clone https://github.com/fortra/impacket.git
+cd impacket
+pip3 install -r requirements.txt
+sudo python3 setup.py install
+```
 # Cheat Sheets
 - [Reverse Shell Cheatsheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#reverse-shell-cheat-sheet)
 - ![[Wireshark Cheatsheet.png]]
