@@ -3,3 +3,8 @@ https://book.hacktricks.xyz/network-services-pentesting/pentesting-mssql-microso
 
 https://pentestmonkey.net/cheat-sheet/sql-injection/mssql-sql-injection-cheat-sheet
 
+# Injection
+- SQLMap
+```bash
+sudo apt install sqlmap
+```
