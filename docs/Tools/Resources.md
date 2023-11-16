@@ -41,3 +41,18 @@ category:
 - [Computer Networking: Principles, Protocols, and Practice](https://www.computer-networking.info/1st/html/index.html) \[HTML]
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/) \[HTML]
 
+## Subreddits
+Note: not all security related, but general interest IT-related subreddits that I find helpful.
+- [AskNetSec](https://old.reddit.com/r/AskNetsec/)
+- [Cybersecurity](https://old.reddit.com/r/cybersecurity/)
+- [CCNA](https://old.reddit.com/r/ccna)
+- [Homelab](https://old.reddit.com/r/homelab/)
+- [Selfhosted](https://old.reddit.com/r/selfhosted/)
+- [Sysadmin](https://old.reddit.com/r/sysadmin/)
+- [OSINT](https://old.reddit.com/r/OSINT/)
+- [OpSec](https://old.reddit.com/r/opsec/)
+- [Networking](https://old.reddit.com/r/networking/)
+- [NetSecStudents](https://old.reddit.com/r/netsecstudents/)
+- [NetSec](https://old.reddit.com/r/netsec/)
+- [MSP](https://old.reddit.com/r/msp/)
+- [ITCareerQuestions](https://old.reddit.com/r/ITCareerQuestions/)
