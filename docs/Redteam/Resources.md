@@ -1,4 +1,6 @@
 - [PEASS-ng](https://github.com/carlospolop/PEASS-ng)
 - [LOLBAS](https://lolbas-project.github.io/#)
 - [Red Team Notes](https://ired.team)
+- [HackTricks](https://book.hacktricks.xyz)
+- [GTFObins](https://gtfobins.github.io)
 - 
