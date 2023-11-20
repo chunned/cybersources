@@ -1,6 +1,5 @@
 ---
-category:
-  - osint
+category: osint
 ---
 !!! note "Info"
 	Tools related to domains and/or IP addresses, ASNs, certificates, etc.
