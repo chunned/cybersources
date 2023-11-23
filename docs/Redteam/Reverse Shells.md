@@ -6,6 +6,7 @@ category:
 	"Reverse shells _allow attackers to open ports to the target machines, forcing communication and_ enabling a complete takeover of the target machine." -[Imperva](https://www.imperva.com/learn/application-security/reverse-shell/)
 ## Stabilization
 Basic: `python3 -c 'import pty;pty.spawn("/bin/bash")'`
+`script /dev/null -c bash`
 ### TTY Size
 In second terminal window, get rows & columns with `stty -a`, then set them in the remote shell with `stty {rows|cols} <number>`
 
