@@ -43,6 +43,7 @@ category:
 
 ## Subreddits
 Note: not all security related, but general interest IT-related subreddits that I find helpful.
+
 - [AskNetSec](https://old.reddit.com/r/AskNetsec/)
 - [Cybersecurity](https://old.reddit.com/r/cybersecurity/)
 - [CCNA](https://old.reddit.com/r/ccna)
