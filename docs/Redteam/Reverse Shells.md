@@ -4,6 +4,10 @@ category:
 ---
 !!! info "Info"
 	"Reverse shells _allow attackers to open ports to the target machines, forcing communication and_ enabling a complete takeover of the target machine." -[Imperva](https://www.imperva.com/learn/application-security/reverse-shell/)
+
+## Generators
+- Msfvenom
+- [RevShells](https://www.revshells.com/)
 ## Stabilization
 Basic: `python3 -c 'import pty;pty.spawn("/bin/bash")'`
 `script /dev/null -c bash`
